@@ -1,0 +1,15 @@
+{
+    "name": "lipfreitas/slackbot",
+    "description": "PHP Slackbot",
+    "type": "php-bot",
+    "require": {
+        "guzzlehttp/psr7": "^2.0",
+        "guzzle/guzzle": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "Felipe Freitas",
+            "email": "felipef.fernandes@hotmail.com"
+        }
+    ]
+}
